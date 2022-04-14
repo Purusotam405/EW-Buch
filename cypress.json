@@ -1,0 +1,12 @@
+{
+    "baseUrl":"https://ruby-ew-buchs.selise.dev/auth/login",
+    "defaultCommandTimeout":10000,
+    "env": {
+        "MAILOSAUR_API_KEY": "your-key-here"
+      },
+      "chromeWebSecurity": false,
+      "viewportWidth": 1920,
+      "viewportHeight": 1200,
+      "retries": 0,
+      "watchForFileChanges": false
+}
